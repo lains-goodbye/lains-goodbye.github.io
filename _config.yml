@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: lains-goodbye
 description: what is the internet?
+
+github:
+  is_project_page: false
