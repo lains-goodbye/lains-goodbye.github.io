@@ -52,7 +52,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="tuesdayevening">tuesday evening.. forever?</a></td>
+                <td><a href="tuesdayevening.html">tuesday evening.. forever?</a></td>
                 <td>2024-10-29</td>
                 <td>539</td>
             </tr>
