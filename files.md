@@ -1,4 +1,4 @@
-![tumblr_inline_nnqfemvh6b1rylcqa_640](https://github.com/user-attachments/assets/0ea959bc-5f35-425e-8094-28ddbc24ba78)
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
