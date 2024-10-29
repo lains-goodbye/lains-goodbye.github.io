@@ -52,9 +52,9 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="link_to_your_post_1.html">Post Title 1</a></td>
+                <td><a href="link_to_your_post_1.html">tuesday evening.. forever?</a></td>
                 <td>2024-10-29</td>
-                <td>1200</td>
+                <td>539</td>
             </tr>
             <tr>
                 <td><a href="link_to_your_post_2.html">Post Title 2</a></td>
